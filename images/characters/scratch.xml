@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Scratch.png"><SubTexture name="Scratch Idle0000" x="644" y="930" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Idle0001" x="979" y="930" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Idle0002" x="0" y="1240" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Idle0003" x="335" y="1240" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Up0000" x="670" y="1240" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Up0001" x="1005" y="1240" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Down0000" x="1545" y="0" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Down0001" x="1545" y="300" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Left0000" x="1545" y="600" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Left0001" x="1545" y="900" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Right0000" x="1545" y="1200" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Right0001" x="0" y="1540" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Miss Up0000" x="335" y="1540" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Miss Up0001" x="670" y="1540" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Miss Down0000" x="1005" y="1540" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Miss Down0001" x="309" y="930" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Miss Left0000" x="1340" y="1540" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Miss Left0001" x="1880" y="0" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Miss Right0000" x="1880" y="300" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Miss Right0001" x="1880" y="600" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Dodge Up0000" x="1880" y="900" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Dodge Up0001" x="1880" y="1200" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Dodge Down0000" x="1880" y="1500" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Dodge Down0001" x="0" y="1840" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Dodge Left0000" x="335" y="1840" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Dodge Left0001" x="670" y="1840" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Dodge Right0000" x="1005" y="1840" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Dodge Right0001" x="1340" y="1840" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Peace Sign0000" x="1675" y="1840" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Peace Sign0001" x="2215" y="0" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Peace Sign0002" x="2215" y="300" width="335" height="300" frameX="0" frameY="0" frameWidth="335" frameHeight="300" />
+<SubTexture name="Scratch Is Ded0000" x="0" y="0" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0001" x="309" y="0" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0002" x="618" y="0" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0003" x="618" y="0" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0004" x="0" y="310" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0005" x="309" y="310" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0006" x="618" y="310" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0007" x="927" y="0" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0008" x="927" y="310" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0009" x="927" y="310" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0010" x="0" y="620" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0011" x="309" y="620" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0012" x="618" y="620" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0013" x="927" y="620" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0014" x="1236" y="0" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch Is Ded0015" x="1236" y="310" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch continue0000" x="1236" y="620" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+<SubTexture name="Scratch continue0001" x="0" y="930" width="309" height="310" frameX="0" frameY="0" frameWidth="309" frameHeight="310" />
+</TextureAtlas>

@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["elephant", "soylent", [146, 113, 253]],
+		["endless", "majin", [146, 113, 253]],
+		["too fest", "sanic", [146, 113, 253]],
+		["sunshine", "taildoll", [146, 113, 253]],
+		["chaos", "fleetway", [146, 113, 253]],
+		["milk", "sunky", [146, 113, 253]],
+		["round-a-bout", "need", [146, 113, 253]],
+		["fatality", "spirit-pixel", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "week.EXE",
+	"weekBefore": "tutorial",
+	"weekName": "week.EXE",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
